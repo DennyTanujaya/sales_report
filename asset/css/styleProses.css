@@ -1,0 +1,100 @@
+label {
+	font-family: Calibri;
+}
+#wrapper {
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Calibri;
+}
+h3{
+	font-family: Calibri;
+	color: #FF8C00;
+}
+#container{
+	height: 100%;
+	background-image: url("../Batik-Bolong.png");
+	margin-top: 100px;
+}
+#header{
+	font-family: Calibri;
+	height: 200px;
+}
+#header1{
+	height: 200px;
+}
+#logo{
+	border-radius: 5px;
+	padding: 20px;
+	float:left;
+	height: 100px;
+	width: 100%;
+}
+#logo-kanan{
+	float:right;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Arial-Black;
+	height: 200px;
+	font-size: 20px;
+	width: 100%;
+	padding-left: 600px;
+}
+#logo-kanan-sales{
+	color: #FF8C00;
+}
+
+#salesActivity{
+	float:left;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 20px;
+	font-family: Arial-Black;
+	height: 200px;
+}
+
+#block{
+	background-color: #FF8C00;
+}
+
+.garis_verikal{
+	border-left: 1px orange solid;
+	height: 300px;
+	width: 0px;
+}
+.garis_horizontal{
+	border-top: 1px orange solid;
+	height: 0px;
+	width: 100%;
+}
+
+table {
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    border-width: 1px;
+    border-color: #FF8C00;
+    border-collapse: collapse;
+	width: 100%;
+	height: 300px;
+}
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #FF8C00;
+	background-color: #FF8C00;
+	color: #ffffff;
+	}
+table tr:hover td {
+	rsor: pointer;
+}
+table tr:nth-child(even) td{
+	background-color: #FF8C00;
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #FF8C00;
+	background-color: #ffffff;
+}
